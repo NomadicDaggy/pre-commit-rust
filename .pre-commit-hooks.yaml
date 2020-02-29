@@ -3,4 +3,4 @@
     description: Format files with cargo fmt
     entry: cargo fmt
     language: system
-    files: '*.rs'
+    files: *.rs
